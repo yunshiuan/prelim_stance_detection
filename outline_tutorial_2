@@ -1,0 +1,37 @@
+Tutorial 2: Stance Detection on Tweets using NLP Methods
+
+Introduction
+a. Objective of the tutorial
+b. Overview of stance detection
+c. Prerequisites: Basic Python skills, familiarity with NLP concepts
+
+Understanding BERT
+a. What is BERT and how it works
+b. Pretrained models and transfer learning
+c. BERT architecture and tokenization
+
+Fine-tuning a BERT Model with HuggingFace
+a. Installing HuggingFace Transformers library
+b. Loading a pretrained BERT model
+c. Preparing and processing the labeled dataset
+d. Fine-tuning the model for stance detection
+e. Evaluating the model and analyzing results
+
+Introduction to Large Language Models (LLM)
+a. Open-source model flan-t5
+b. OpenAI's GPT 3.5
+
+Prompting Techniques for LLMs
+a. Zero-shot prompting
+b. Few-shot prompting
+c. Chain-of-thoughts method
+
+Stance Detection using LLMs
+a. Setting up the environment
+b. Preparing input prompts for each method
+c. Implementing stance detection with flan-t5 and GPT 3.5
+d. Comparing results and performance
+
+Conclusion
+a. Recap of the tutorial
+b. Next steps and further resources
