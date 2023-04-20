@@ -1,0 +1,520 @@
+stance_predicted,ID,tweet_embedded
+against,2313,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'let's agree that it's not ok to kill a 7lbs baby in the uterus @USERNAME #dnc #clinton2016 @USERNAME #procompromise'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+neutral-or-unclear,2316,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME 'if you don't draw the line where i've arbitrarily drawn it, you can't draw it anywhere.' nonsense.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+neutral-or-unclear,2317,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME that lady needs help, mental illness is a serious issue.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+in-favor,2323,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'a needed, safe medical procedure is available to women. unfortunately, rw men say they should make women's decisions. sad, huh?'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+neutral-or-unclear,2331,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'dear nuns, your advocacy of tax paying is weird. #war #iraq #deathpenalty #taxespayforthistoo #taxpayerpride'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+in-favor,2335,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'patient advocate stephen casey of texas center for defense of life strongly supports #hb3074. #txlege'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+in-favor,2338,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME not so great for the women you want to force to give birth against their wills. #rapeculture'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+in-favor,2340,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'if my body is the only way you can live and i don't want that i have the right to dismiss you. i don't know why that's a problem'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+in-favor,2346,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'people who have never had an abortion can be prochoice. people with a uterus can be prochoice. people who never want kids can be'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+in-favor,2353,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'dear religious right: i keep my uterus out of your church, so keep your church out my uterus.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+neutral-or-unclear,2356,
+neutral-or-unclear,2360,
+against,2364,
+against,2366,
+in-favor,2367,
+neutral-or-unclear,2376,
+against,2390,
+neutral-or-unclear,2391,
+neutral-or-unclear,2395,
+in-favor,2404,
+in-favor,2409,
+neutral-or-unclear,2411,
+in-favor,2413,
+neutral-or-unclear,2415,
+neutral-or-unclear,2421,
+neutral-or-unclear,2426,
+against,2429,
+in-favor,2433,
+neutral-or-unclear,2434,
+against,2435,
+neutral-or-unclear,2441,
+in-favor,2442,
+against,2443,
+against,2447,
+in-favor,2450,
+against,2455,
+in-favor,2463,
+in-favor,2472,
+in-favor,2477,
+against,2480,
+in-favor,2494,
+against,2499,
+against,2504,
+in-favor,2507,
+neutral-or-unclear,2515,
+against,2521,
+neutral-or-unclear,2522,
+against,2525,
+against,2533,
+against,2536,
+against,2539,
+in-favor,2540,
+neutral-or-unclear,2547,
+in-favor,2559,
+against,2569,
+in-favor,2570,
+against,2576,
+in-favor,2577,
+neutral-or-unclear,2585,
+against,2600,
+neutral-or-unclear,2603,
+against,2605,
+neutral-or-unclear,2615,
+against,2621,
+neutral-or-unclear,2624,
+neutral-or-unclear,2625,
+against,2626,
+against,2636,
+against,2639,
+against,2647,
+neutral-or-unclear,2656,
+neutral-or-unclear,2659,
+in-favor,2666,
+neutral-or-unclear,2667,
+against,2679,
+against,2680,
+against,2685,
+against,2687,
+against,2691,
+against,2710,
+against,2722,
+neutral-or-unclear,2724,
+against,2727,
+against,2733,
+against,2736,
+neutral-or-unclear,2741,
+against,2745,
+neutral-or-unclear,2760,
+neutral-or-unclear,2770,
+against,2779,
+in-favor,2780,
+in-favor,2781,
+against,2788,
+in-favor,2794,
+in-favor,2801,
+in-favor,2805,
+against,2806,
+neutral-or-unclear,2810,
+neutral-or-unclear,2811,
+against,2822,
+against,2823,
+against,2824,
+against,2838,
+in-favor,2840,
+in-favor,2844,
+against,2845,
+neutral-or-unclear,2850,
+neutral-or-unclear,2851,
+neutral-or-unclear,2854,
+in-favor,2857,
+against,2874,
+neutral-or-unclear,2885,
+in-favor,2886,
+in-favor,2889,
+neutral-or-unclear,2894,
+against,2902,
+neutral-or-unclear,2906,
+against,2909,
+against,2913,
+neutral-or-unclear,2914,
+against,10970,
+neutral-or-unclear,10971,
+against,10972,
+neutral-or-unclear,10973,
+against,10974,
+in-favor,10975,
+in-favor,10976,
+neutral-or-unclear,10977,
+neutral-or-unclear,10978,
+in-favor,10979,
+neutral-or-unclear,10980,
+in-favor,10981,
+neutral-or-unclear,10982,
+in-favor,10983,
+against,10984,
+neutral-or-unclear,10985,
+neutral-or-unclear,10986,
+against,10987,
+in-favor,10988,
+neutral-or-unclear,10989,
+against,10990,
+against,10991,
+against,10992,
+in-favor,10993,
+neutral-or-unclear,10994,
+in-favor,10995,
+in-favor,10996,
+against,10997,
+against,10998,
+neutral-or-unclear,10999,
+neutral-or-unclear,11000,
+neutral-or-unclear,11001,
+neutral-or-unclear,11002,
+in-favor,11003,
+against,11004,
+neutral-or-unclear,11005,
+neutral-or-unclear,11006,
+neutral-or-unclear,11007,
+against,11008,
+neutral-or-unclear,11009,
+against,11010,
+neutral-or-unclear,11011,
+in-favor,11012,
+against,11013,
+neutral-or-unclear,11014,
+neutral-or-unclear,11015,
+neutral-or-unclear,11016,
+neutral-or-unclear,11017,
+against,11018,
+in-favor,11019,
+neutral-or-unclear,11020,
+against,11021,
+in-favor,11022,
+in-favor,11023,
+in-favor,11024,
+against,11025,
+in-favor,11026,
+in-favor,11027,
+in-favor,11028,
+against,11029,
+neutral-or-unclear,11030,
+in-favor,11031,
+in-favor,11032,
+in-favor,11033,
+against,11034,
+against,11035,
+neutral-or-unclear,11036,
+in-favor,11037,
+neutral-or-unclear,11038,
+neutral-or-unclear,11039,
+in-favor,11040,
+in-favor,11041,
+neutral-or-unclear,11042,
+neutral-or-unclear,11043,
+in-favor,11044,
+in-favor,11045,
+against,11046,
+neutral-or-unclear,11047,
+against,11048,
+in-favor,11049,
+neutral-or-unclear,11050,
+neutral-or-unclear,11051,
+neutral-or-unclear,11052,
+in-favor,11053,
+neutral-or-unclear,11054,
+against,11055,
+in-favor,11056,
+neutral-or-unclear,11057,
+neutral-or-unclear,11058,
+neutral-or-unclear,11059,
+against,11060,
+against,11061,
+in-favor,11062,
+in-favor,11063,
+against,11064,
+against,11065,
+against,11066,
+neutral-or-unclear,11067,
+neutral-or-unclear,11068,
+in-favor,11069,
+against,11070,
+neutral-or-unclear,11071,
+neutral-or-unclear,11072,
+neutral-or-unclear,11073,
+against,11074,
+in-favor,11075,
+neutral-or-unclear,11076,
+neutral-or-unclear,11077,
+neutral-or-unclear,11078,
+against,11079,
+against,11080,
+against,11081,
+neutral-or-unclear,11082,
+against,11083,
+in-favor,11084,
+in-favor,11085,
+against,11086,
+against,11087,
+against,11088,
+neutral-or-unclear,11089,
+in-favor,11090,
+neutral-or-unclear,11091,
+neutral-or-unclear,11092,
+in-favor,11093,
+neutral-or-unclear,11094,
+neutral-or-unclear,11095,
+against,11096,
+in-favor,11097,
+against,11098,
+in-favor,11100,
+in-favor,11101,
+in-favor,11102,
+against,11103,
+neutral-or-unclear,11104,
+against,11105,
+in-favor,11106,
+in-favor,11107,
+in-favor,11108,
+in-favor,11109,
+against,11110,
+neutral-or-unclear,11111,
+in-favor,11112,
+neutral-or-unclear,11113,
+against,11114,
+in-favor,11115,
+neutral-or-unclear,11116,
+in-favor,11117,
+in-favor,11118,
+in-favor,11119,
+neutral-or-unclear,11120,
+in-favor,11121,
+against,11122,
+in-favor,11123,
+in-favor,11124,
+in-favor,11125,
+in-favor,11126,
+neutral-or-unclear,11127,
+neutral-or-unclear,11128,
+in-favor,11129,
+in-favor,11130,
+in-favor,11131,
+in-favor,11132,
+against,11133,
+against,11134,
+in-favor,11135,
+against,11136,
+against,11137,
+neutral-or-unclear,11138,
+against,11139,
+in-favor,11140,
+neutral-or-unclear,11141,
+against,11142,
+neutral-or-unclear,11143,
+against,11144,
+against,11145,
+neutral-or-unclear,11146,
+against,11147,
+in-favor,11148,
+neutral-or-unclear,11149,
+against,11150,
+in-favor,11151,
+in-favor,11152,
+neutral-or-unclear,11153,
+in-favor,11154,
+in-favor,11155,
+against,11156,
+neutral-or-unclear,11157,
+in-favor,11158,
+neutral-or-unclear,11159,
+against,11160,
+in-favor,11161,
+in-favor,11162,
+against,11163,
+against,11164,
+against,11165,
+neutral-or-unclear,11166,
+in-favor,11167,
+in-favor,11168,
+against,11169,
+against,11170,
+against,11171,
+in-favor,11172,
+against,11173,
+against,11174,
+in-favor,11175,
+neutral-or-unclear,11176,
+neutral-or-unclear,11177,
+against,11178,
+neutral-or-unclear,11179,
+against,11180,
+neutral-or-unclear,11181,
+neutral-or-unclear,11182,
+neutral-or-unclear,11183,
+against,11184,
+neutral-or-unclear,11185,
+against,11186,
+against,11187,
+neutral-or-unclear,11188,
+in-favor,11189,
+against,11190,
+against,11191,
+neutral-or-unclear,11192,
+against,11193,
+in-favor,11194,
+neutral-or-unclear,11195,
+in-favor,11196,
+against,11197,
+neutral-or-unclear,11198,
+against,11199,
+against,11200,
+neutral-or-unclear,11201,
+against,11202,
+against,11203,
+in-favor,11204,
+against,11205,
+against,11206,
+against,11207,
+in-favor,11208,
+neutral-or-unclear,11209,
+against,11210,
+against,11211,
+against,11212,
+against,11213,
+against,11214,
+against,11215,
+neutral-or-unclear,11216,
+neutral-or-unclear,11217,
+against,11218,
+neutral-or-unclear,11219,
+in-favor,11220,
+neutral-or-unclear,11221,
+against,11222,
+neutral-or-unclear,11223,
+against,11224,
+against,11225,
+against,11226,
+neutral-or-unclear,11227,
+in-favor,11228,
+neutral-or-unclear,11229,
+in-favor,11230,
+against,11231,
+neutral-or-unclear,11232,
+neutral-or-unclear,11233,
+in-favor,11234,
+in-favor,11235,
+against,11236,
+neutral-or-unclear,11237,
+in-favor,11238,
+neutral-or-unclear,11239,
+against,11240,
+neutral-or-unclear,11241,
+neutral-or-unclear,11242,
+against,11243,
+against,11244,
+neutral-or-unclear,11245,
+neutral-or-unclear,11246,
+against,11247,
+against,11248,
+neutral-or-unclear,11249,

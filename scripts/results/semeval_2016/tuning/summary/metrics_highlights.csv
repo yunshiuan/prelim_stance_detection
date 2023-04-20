@@ -1,0 +1,10 @@
+dataset,model_type,task,version,set,f1_macro,f1_NONE,f1_FAVOR,f1_AGAINST
+SEM_EVAL,single_domain_baseline,,bert-base-uncased,train_raw,0.7848,0.7559,0.7299,0.8687
+SEM_EVAL,single_domain_baseline,,bert-base-uncased,vali_raw,0.6327,0.6769,0.5263,0.6949
+SEM_EVAL,single_domain_baseline,,bert-base-uncased,test_raw,0.4549,0.406,0.4056,0.5532
+SEM_EVAL,single_domain_baseline,,kornosk_polibertweet_mlm,train_raw,0.7865,0.8134,0.7215,0.8245
+SEM_EVAL,single_domain_baseline,,kornosk_polibertweet_mlm,vali_raw,0.6358,0.6452,0.5333,0.7288
+SEM_EVAL,single_domain_baseline,,kornosk_polibertweet_mlm,test_raw,0.52,0.4848,0.4697,0.6054
+SEM_EVAL,single_domain_baseline,,vinai_bertweet_base,train_raw,0.756,0.8316,0.6638,0.7727
+SEM_EVAL,single_domain_baseline,,vinai_bertweet_base,vali_raw,0.6116,0.7123,0.5538,0.5686
+SEM_EVAL,single_domain_baseline,,vinai_bertweet_base,test_raw,0.4904,0.5109,0.4819,0.4784

@@ -1,0 +1,391 @@
+,ID,tweet,topic,label,partition,tweet_embedded
+0,2312,i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+1,2313,let's agree that it's not ok to kill a 7lbs baby in the uterus @USERNAME #dnc #clinton2016 @USERNAME #procompromise,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'let's agree that it's not ok to kill a 7lbs baby in the uterus @USERNAME #dnc #clinton2016 @USERNAME #procompromise'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+2,2314,"@USERNAME i would like to see poll: how many abortion doctors have told a woman 'no, an abortion is not required in your case.",Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME i would like to see poll: how many abortion doctors have told a woman 'no, an abortion is not required in your case.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+3,2315,democrats are always against 'personhood' or what they perceive to be legislation to recognize #personhood. always. #colorado,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'democrats are always against 'personhood' or what they perceive to be legislation to recognize #personhood. always. #colorado'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+4,2316,"@USERNAME 'if you don't draw the line where i've arbitrarily drawn it, you can't draw it anywhere.' nonsense.",Abortion,NONE,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME 'if you don't draw the line where i've arbitrarily drawn it, you can't draw it anywhere.' nonsense.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+5,2317,"@USERNAME that lady needs help, mental illness is a serious issue.",Abortion,NONE,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME that lady needs help, mental illness is a serious issue.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+6,2318,new video: 'i'm not seeing it as a human being.' @USERNAME @USERNAME @USERNAME @USERNAME #prolife...,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'new video: 'i'm not seeing it as a human being.' @USERNAME @USERNAME @USERNAME @USERNAME #prolife...'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+7,2319,"'we're all human, aren't we? every human life is worth the same, and worth saving.' -j.k. rowling #...",Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: ''we're all human, aren't we? every human life is worth the same, and worth saving.' -j.k. rowling #...'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+8,2320,someone snitched on the mom having sex with and playing naked twister with teens. i bet it was her cock blocking ass children.,Abortion,NONE,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'someone snitched on the mom having sex with and playing naked twister with teens. i bet it was her cock blocking ass children.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+9,2321,"#sb724 passes sen. judiciary cmte.this bill is an effort to shame women out of their personal, private medical decision to have an",Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '#sb724 passes sen. judiciary cmte.this bill is an effort to shame women out of their personal, private medical decision to have an'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+10,2322,#debbiewashermanschultz the woman has a voice the doctor has a voice. who speaks for the baby? i'm just askin.,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '#debbiewashermanschultz the woman has a voice the doctor has a voice. who speaks for the baby? i'm just askin.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+11,2323,"a needed, safe medical procedure is available to women. unfortunately, rw men say they should make women's decisions. sad, huh?",Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'a needed, safe medical procedure is available to women. unfortunately, rw men say they should make women's decisions. sad, huh?'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+12,2324,'it seems to me clear as daylight that abortion would be a crime.' -ghandi #prolifeyouth,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: ''it seems to me clear as daylight that abortion would be a crime.' -ghandi #prolifeyouth'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+13,2325,@USERNAME defunding pp won't mean fewer abortions. it will mean more dead women.,Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME defunding pp won't mean fewer abortions. it will mean more dead women.'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+14,2326,"govt cannot force you to get chemo but if you're a fetus, you must live! #julieborowski #reproductiverights",Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'govt cannot force you to get chemo but if you're a fetus, you must live! #julieborowski #reproductiverights'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+15,2327,"a person's a person, no matter how small. - dr. suess #waar",Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'a person's a person, no matter how small. - dr. suess #waar'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+16,2328,as long as they are allowed to show medically correct photos of contraception use at the family planning table #stopabortion,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'as long as they are allowed to show medically correct photos of contraception use at the family planning table #stopabortion'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+17,2329,"thanks for gently spoken truth, @USERNAME ! how do we as a nation 'protect the innocent'? #thefive #ccot #dnc #rnc",Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'thanks for gently spoken truth, @USERNAME ! how do we as a nation 'protect the innocent'? #thefive #ccot #dnc #rnc'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+18,2330,@USERNAME @USERNAME #obama cares more about deserters than unborn babies #protecttheunprotected #antiabortion,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME @USERNAME #obama cares more about deserters than unborn babies #protecttheunprotected #antiabortion'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+19,2331,"dear nuns, your advocacy of tax paying is weird. #war #iraq #deathpenalty #taxespayforthistoo #taxpayerpride",Abortion,NONE,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'dear nuns, your advocacy of tax paying is weird. #war #iraq #deathpenalty #taxespayforthistoo #taxpayerpride'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+20,2332,i've noticed that everybody that is for abortion has already been born-ronald reagan #letthemlive #alllivesmatter,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'i've noticed that everybody that is for abortion has already been born-ronald reagan #letthemlive #alllivesmatter'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+21,2333,follow #patriot --> @USERNAME. thanks for following back!! #truth #liberty #justice #proisrael #wakeupamerica #freeamirnow,Abortion,NONE,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'follow #patriot --> @USERNAME. thanks for following back!! #truth #liberty #justice #proisrael #wakeupamerica #freeamirnow'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+22,2334,".@USERNAME not sure i agree with her decision but, it is her decision.i wonder how many of the critics would support abortion?",Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '.@USERNAME not sure i agree with her decision but, it is her decision.i wonder how many of the critics would support abortion?'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+23,2335,patient advocate stephen casey of texas center for defense of life strongly supports #hb3074. #txlege,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'patient advocate stephen casey of texas center for defense of life strongly supports #hb3074. #txlege'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+24,2336,are the same people who are red faced and frothing over abortion also against the death penalty? just wondering... #deathpenalty,Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'are the same people who are red faced and frothing over abortion also against the death penalty? just wondering... #deathpenalty'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+25,2337,hey megan--a baby's heart starts beating at 21 days after conception. no time is the right time to end its life!! #kellyfile,Abortion,AGAINST,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'hey megan--a baby's heart starts beating at 21 days after conception. no time is the right time to end its life!! #kellyfile'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+26,2338,@USERNAME not so great for the women you want to force to give birth against their wills. #rapeculture,Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: '@USERNAME not so great for the women you want to force to give birth against their wills. #rapeculture'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+27,2339,what a great day to argue the benefits of making abortion legal,Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'what a great day to argue the benefits of making abortion legal'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+28,2340,if my body is the only way you can live and i don't want that i have the right to dismiss you. i don't know why that's a problem,Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'if my body is the only way you can live and i don't want that i have the right to dismiss you. i don't know why that's a problem'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
+29,2341,people who want kids can b prochoice. u don't have to want an abortion to b prochoice. people who had a miscarriage can b prochoice,Abortion,FAVOR,train,"What is the stance of the tweet below with respect to 'Legalization of Abortion'?  If we can infer from the tweet that the tweeter supports 'Legalization of Abortion', please label it as 'in-favor'. If we can infer from the tweet that the tweeter is against 'Legalization of Abortion', please label is as 'against'. If we can infer from the tweet that the tweeter has a neutral stance towards 'Legalization of Abortion', please label it as 'neutral-or-unclear'. If there is no clue in the tweet to reveal the stance of the tweeter towards 'Legalization of Abortion', please also label is as 'neutral-or-unclear'. Please use exactly one word from the following 3 categories to label it: 'in-favor', 'against', 'neutral-or-unclear'.  Here are some examples of tweets. Make sure to classify the last tweet correctly.
+Q: Tweet: it's a free country. freedom includes freedom of choice.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: in-favor
+Q: Tweet: i really don't understand how some people are pro-choice. a life is a life no matter if it's 2 weeks old or 20 years old.
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: against
+Q: Tweet: so ready for my abortion debate
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: neutral-or-unclear
+Q: Tweet: 'people who want kids can b prochoice. u don't have to want an abortion to b prochoice. people who had a miscarriage can b prochoice'
+Is this tweet in-favor, against, or neutral-or-unclear?
+A: "
