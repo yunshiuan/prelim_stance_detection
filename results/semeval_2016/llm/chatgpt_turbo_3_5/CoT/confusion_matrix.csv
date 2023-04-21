@@ -1,0 +1,7 @@
+data_set,true_class,pred_NONE,pred_FAVOR,pred_AGAINST
+vali_raw,true_NONE,31,1,0
+vali_raw,true_FAVOR,11,10,0
+vali_raw,true_AGAINST,47,7,13
+test_raw,true_NONE,45,0,0
+test_raw,true_FAVOR,19,27,0
+test_raw,true_AGAINST,141,22,25

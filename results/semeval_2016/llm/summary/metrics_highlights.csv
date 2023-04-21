@@ -1,0 +1,15 @@
+dataset,model_type,task,version,set,f1_macro,f1_NONE,f1_FAVOR,f1_AGAINST
+SEM_EVAL,llm_chatgpt_turbo_3_5,,CoT,vali_raw,0.4501,0.5124,0.5128,0.325
+SEM_EVAL,llm_chatgpt_turbo_3_5,,CoT,test_raw,0.3877,0.36,0.5684,0.2347
+SEM_EVAL,llm_chatgpt_turbo_3_5,,few_shot,vali_raw,0.7779,0.8,0.7407,0.7931
+SEM_EVAL,llm_chatgpt_turbo_3_5,,few_shot,test_raw,0.6372,0.5634,0.6769,0.6713
+SEM_EVAL,llm_flan-t5-large,,few_shot,vali_raw,0.2673,0.0606,0.1928,0.5484
+SEM_EVAL,llm_flan-t5-large,,few_shot,test_raw,0.278,0.0833,0.199,0.5517
+SEM_EVAL,llm_flan-t5-xxl,,few_shot,vali_raw,0.6809,0.6538,0.6038,0.7852
+SEM_EVAL,llm_flan-t5-xxl,,few_shot,test_raw,0.5919,0.5347,0.5197,0.7212
+SEM_EVAL,llm_chatgpt_turbo_3_5,,zero_shot,vali_raw,0.6313,0.6526,0.6667,0.5745
+SEM_EVAL,llm_chatgpt_turbo_3_5,,zero_shot,test_raw,0.5071,0.4356,0.6723,0.4135
+SEM_EVAL,llm_flan-t5-large,,zero_shot,vali_raw,0.2445,0.0606,0.2157,0.4571
+SEM_EVAL,llm_flan-t5-large,,zero_shot,test_raw,0.2129,0.0435,0.181,0.4143
+SEM_EVAL,llm_flan-t5-xxl,,zero_shot,vali_raw,0.6933,0.6,0.6538,0.8261
+SEM_EVAL,llm_flan-t5-xxl,,zero_shot,test_raw,0.619,0.5833,0.5312,0.7425
