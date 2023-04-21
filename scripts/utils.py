@@ -26,7 +26,8 @@ import yaml
 from transformers import AutoConfig
 from datetime import datetime
 from collections import Counter
-
+from PIL import Image as PILImage
+from IPython.display import display
 
 def get_parameters_for_dataset(dataset_meta=None):
     if dataset_meta is None:
@@ -1476,6 +1477,13 @@ def tidy_name(raw_name):
     tidy_name = re.sub(r'\W', '_', raw_name)
     return tidy_name
 
+def display_resized_image_in_notebook(file_image, scale=1):
+    """ Display an image in a notebook.
+    """
+    # - https://stackoverflow.com/questions/69654877/how-to-set-image-size-to-display-in-ipython-display
+    # Open the image
+    image = PILImage.open(file_image)
+    display(image.resize((int(image.width * scale), int(image.height * scale))))
 
 class AttrDict(dict):
     # https://stackoverflow.com/questions/4984647/accessing-dict-keys-like-an-attribute
