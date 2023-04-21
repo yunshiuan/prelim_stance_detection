@@ -14,8 +14,7 @@ class ParametersMeta():
 
     
     # path
-    # PATH_ROOT = "/Users/vimchiz/github_local/PhD_projects/gda-covid-tweets"
-    PATH_ROOT = "/home/sean/gda-covid-tweets"
+    PATH_ROOT = "/home/sean/prelim_stance_detection"
     PATH_DATA = join(PATH_ROOT, "dataset")
     PATH_RESULT = join(PATH_ROOT, "results")
     # file
