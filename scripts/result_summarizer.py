@@ -810,6 +810,7 @@ class ResultSummarizer():
             "The number of versions in the output dataframe is not correct."
         assert len(df_metrics_over_domains_version) == len(self.list_version_output) * len(list_sets_highlight), \
             "The number of rows in the output dataframe is not correct."
+        df_metrics_over_domains_version_this = df_metrics_over_domains_version.copy()
         # ----------
         # order the rows by the version
         # - with existing csv
@@ -830,7 +831,7 @@ class ResultSummarizer():
         # ----------
         df_metrics_over_domains_version = df_metrics_over_domains_version.round(4)
         df_metrics_over_domains_version.to_csv(file_summary_csv, index=False)
-        return df_metrics_over_domains_version
+        return df_metrics_over_domains_version_this # exclude the rows that are already in the existing csv
 
     def _read_highlight_metrics_from_summary_csv(self, col_name_set):
         """Read the metrics from the summary csv file.
