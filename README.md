@@ -1,7 +1,12 @@
 # prelim_stance_detection
 
 
+## Cobal link
 
+- bert-tuning_colab
+  - https://colab.research.google.com/drive/1nxziaKStwRnSyOLI6pLNBaAnB_aB6IsE?usp=sharing
+- llm-prompting_colab.ipynb
+  - https://colab.research.google.com/drive/1IFr6Iz1YH9XBWUKcWZyTU-1QtxgYqrmX?usp=sharing
 
 ## Environment Set Up
 
