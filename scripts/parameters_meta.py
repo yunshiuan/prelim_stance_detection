@@ -14,7 +14,7 @@ class ParametersMeta():
 
     
     # path
-    PATH_ROOT = "/home/sean/prelim_stance_detection"
+    PATH_ROOT = "/content/prelim_stance_detection"
     PATH_DATA = join(PATH_ROOT, "dataset")
     PATH_RESULT = join(PATH_ROOT, "results")
     # file

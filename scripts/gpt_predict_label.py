@@ -235,7 +235,7 @@ class GPTLabelPredictor(LMMLabelPredictor):
         """
         assert name_model in ["gpt-chat-turbo-3_5"]
         super().__init__(col_name_text, col_name_label, col_name_text_id, name_model)
-        openai.api_key = os.environ["OPENAI_API_KEY"]
+        # openai.api_key = os.environ["OPENAI_API_KEY"]
 
     def predict_labels(self, df_input_text, file_output_predictions):
         raise NotImplementedError()
