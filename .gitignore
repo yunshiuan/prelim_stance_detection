@@ -125,3 +125,9 @@ dmypy.json
 
 *.DS_Store
 ~$*
+
+*.aux
+
+*.out
+
+*.gz
